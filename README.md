@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=180&section=header&text=CherishDreams&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20%C2%B7%20Rust%20%C2%B7%20Java&descAlignY=58&descSize=18" alt="CherishDreams" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4B79A1&center=true&vCenter=true&width=600&lines=I+build+editors%2C+dev+tools%2C+and+agent+systems.;TypeScript+%C2%B7+Vue+%C2%B7+React+%C2%B7+Java+%C2%B7+Rust;Always+shipping+something+new." alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=CherishDreams&label=Profile%20views&color=4B79A1&style=flat-square" alt="Profile views" />
-
 </div>
 
 ## About
@@ -24,21 +18,19 @@
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/CherishDreams/atri-editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CherishDreams&repo=atri-editor&theme=transparent&hide_border=true" alt="atri-editor" />
-  </a>
-  <a href="https://github.com/CherishDreams/devenv-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CherishDreams&repo=devenv-manager&theme=transparent&hide_border=true" alt="devenv-manager" />
-  </a>
-</div>
+### [atri-editor](https://github.com/CherishDreams/atri-editor)
 
-## GitHub Stats
+A framework-agnostic rich text editor built on Tiptap v3, with Web Component support, Markdown round-trip, AI integration, and media upload. Published on npm as `@atri-editor/core`.
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CherishDreams&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherishDreams&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
+`TypeScript` `Tiptap` `Web Component` `Vite` `Vitest`
+
+### [devenv-manager](https://github.com/CherishDreams/devenv-manager)
+
+A Windows developer environment manager built with Tauri, Rust, and React/TypeScript. Install, switch, and manage multiple runtimes and environment variables.
+
+`Rust` `Tauri` `React` `TypeScript`
+
+## GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CherishDreams&theme=transparent&hide_border=true" alt="GitHub streak" />

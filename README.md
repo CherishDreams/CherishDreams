@@ -8,14 +8,14 @@
 
 - 我做编辑器、开发者工具和 Agent 系统。
 - 目前在维护 [atri-editor](https://github.com/CherishDreams/atri-editor) 和 [atri-bot](https://github.com/CherishDreams/atri-bot)。
-- 关注 TypeScript、Rust、开发者体验和 AI 工具。
+- 关注 TypeScript、开发者体验和 AI 工具。
 
-<sub>I build editors, developer tools, and agent systems. Currently maintaining atri-editor and atri-bot. Interested in TypeScript, Rust, developer experience, and AI tooling.</sub>
+<sub>I build editors, developer tools, and agent systems. Currently maintaining atri-editor and atri-bot. Interested in TypeScript, developer experience, and AI tooling.</sub>
 
 ## 技术栈 / Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,react,java,spring,nodejs,rust,mysql,redis,sqlite,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,react,java,spring,nodejs,mysql,redis,sqlite,git" alt="Tech stack" />
 </p>
 
 ## 精选项目 / Featured Projects

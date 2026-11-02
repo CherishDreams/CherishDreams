@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=180&section=header&text=CherishDreams&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20%C2%B7%20Rust%20%C2%B7%20Java&descAlignY=58&descSize=18" alt="CherishDreams" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=180&section=header&text=CherishDreams&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20%C2%B7%20Node.js%20%C2%B7%20Java&descAlignY=58&descSize=18" alt="CherishDreams" />
 
 </div>
 
 ## About
 
 - I build editors, developer tools, and agent systems.
-- Currently maintaining [atri-editor](https://github.com/CherishDreams/atri-editor) and [devenv-manager](https://github.com/CherishDreams/devenv-manager).
+- Currently maintaining [atri-editor](https://github.com/CherishDreams/atri-editor) and [atri-bot](https://github.com/CherishDreams/atri-bot).
 - Interested in TypeScript, Rust, developer experience, and AI tooling.
 
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,react,java,spring,nodejs,rust,mysql,redis,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,react,java,spring,nodejs,rust,mysql,redis,sqlite,git" alt="Tech stack" />
 </p>
 
 ## Featured Projects
@@ -24,11 +24,11 @@ A framework-agnostic rich text editor built on Tiptap v3, with Web Component sup
 
 `TypeScript` `Tiptap` `Web Component` `Vite` `Vitest`
 
-### [devenv-manager](https://github.com/CherishDreams/devenv-manager)
+### [atri-bot](https://github.com/CherishDreams/atri-bot)
 
-A Windows developer environment manager built with Tauri, Rust, and React/TypeScript. Install, switch, and manage multiple runtimes and environment variables.
+An extensible agent platform with a Node.js/TypeScript server and a Vue 3 dashboard. Supports multiple model providers, tool calling, MCP servers, skills, memory, proactive messaging, and chat-platform adapters.
 
-`Rust` `Tauri` `React` `TypeScript`
+`TypeScript` `Node.js` `Vue 3` `SQLite` `MCP`
 
 ## GitHub Streak
 
